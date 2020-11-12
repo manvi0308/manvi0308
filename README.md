@@ -31,6 +31,7 @@ I am a Linkedin content creator and a Computer-Science Enthusiast ⭐💻 <br>
 
 ### Lets connect
 
-1)[Linkedin](https://www.linkedin.com/in/manvi-chaddha-55bb5b18b)
+1) [Linkedin](https://www.linkedin.com/in/manvi-chaddha-55bb5b18b)
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=manvi0308)
