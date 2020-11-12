@@ -1,16 +1,22 @@
-###  👋
+<!--Added a hello world images on top of readme -->
 
-<!--
-**manvi0308/manvi0308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://github.com/manvi0308/manvi0308/blob/main/Hello-world.png)
 
-Here are some ideas to get you started:
+<h2 align='center'>Hello There, I am Manvi 😃</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me <br>
+
+I am a Linkedin content creator and a Computer-Science Enthusiast ⭐💻 <br>
+
+I am currently exploring : Cloud Computing
+
+
+
+
+
+
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=manvi0308)
+
+
