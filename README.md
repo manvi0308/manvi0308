@@ -2,6 +2,7 @@
 
 ![](https://github.com/manvi0308/manvi0308/blob/main/img.jpeg)
 
+![](https://komarev.com/ghpvc/?username=manvi0308)
 
 [![GitHub forks](https://img.shields.io/github/forks/Naereen/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/manvi0308/100DaysOfAlgo/network/)
 
