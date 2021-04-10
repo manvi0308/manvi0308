@@ -1,6 +1,6 @@
 <!--Added a hello world images on top of readme -->
 
-![](https://github.com/manvi0308/manvi0308/blob/main/img.jpeg)
+![](https://github.com/manvi0308/manvi0308/blob/main/hello-world.gif)
 
 ![](https://komarev.com/ghpvc/?username=manvi0308)
 
