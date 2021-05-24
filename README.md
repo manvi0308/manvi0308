@@ -13,12 +13,9 @@
 
 
 • I am a Linkedin content creator and a Computer-Science Enthusiast ⭐💻 <br>
-• I am currently exploring Web development 👩🏻‍💻<br>
+• I am currently exploring Front End Development 👩🏻‍💻<br>
 • I am open to collaboration on projects related to Web development and Machine Learning 💻<br>
 • Github Fact - Million of open source projects on GitHub are written in 337 programming languages, of which JavaScript is most popular. There are over 2.3 open source projects written in JavaScript and 1 million in Python.
-
-
-
 
 
 
@@ -32,7 +29,7 @@
 ### Lets connect
 
 1) [Linkedin](https://www.linkedin.com/in/manvi-chaddha-55bb5b18b) <br>
-
+2) [Github](https://github.com/manvi0308)<br>
 
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=manvi0308&theme=blue-green)
 
