@@ -4,7 +4,7 @@
 </p>
 
 
-<h2 align='center'>Hello There, I am Manvi 😃</h2>
+<h2 align='center'>Hello World, I am Manvi 😃</h2>
 
 
 ### About Me <br>
