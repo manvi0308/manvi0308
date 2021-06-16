@@ -1,6 +1,6 @@
 <!--Added a hello world images on top of readme -->
 <p align="center">
-<img width="900px" height="600px" src="https://github.com/manvi0308/manvi0308/blob/main/girl-sits-at-a-table-in-front-a-laptop-vector-31376939.jpg">
+<img width="700px" height="400px" src="https://github.com/manvi0308/manvi0308/blob/main/girl-sits-at-a-table-in-front-a-laptop-vector-31376939.jpg">
 </p>
 
 
