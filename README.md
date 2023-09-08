@@ -27,6 +27,4 @@
 1) [Linkedin](https://www.linkedin.com/in/manvi-chaddha-55bb5b18b) <br>
 2) [Github](https://github.com/manvi0308)<br>
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=manvi0308&theme=blue-green)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=manvi0308)
