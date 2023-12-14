@@ -8,7 +8,6 @@
 ![](https://komarev.com/ghpvc/?username=manvi0308)
 
 
-• I am a junior pursuing my bachelors in Computer Science and Engineering⭐💻 <br>
 • I am currently exploring Front End Development 👩🏻‍💻<br>
 • I am open to collaboration on projects related to Web development and Machine Learning 💻<br>
 • Github Fact - Million of open source projects on GitHub are written in 337 programming languages, of which JavaScript is most popular. There are over 2.3 open source projects written in JavaScript and 1 million in Python.
@@ -19,8 +18,6 @@
 1) [100 Days Journey](https://github.com/manvi0308/100DaysOfAlgo) <br>
 2) [Web development](https://github.com/manvi0308/Web-development-Practice)<br>
 3) [HackerRank](https://github.com/manvi0308/100DaysOfAlgo/tree/master/HackerRank%20Solutions)
-4) [Project based learning](https://github.com/manvi0308/Project-Based-Learning)
-5) [Restaurant Website](https://github.com/manvi0308/Restaurant-Website)
 
 ### Lets connect
 
